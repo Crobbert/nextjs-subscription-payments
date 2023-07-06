@@ -1,4 +1,4 @@
-# Next.js Subscription Payments Starter
+# Next.js Subscrib and Post assignments for free
 
 The all-in-one starter kit for high-performance SaaS applications.
 
